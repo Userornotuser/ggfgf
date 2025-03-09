@@ -1,0 +1,238 @@
+{
+   "appDesc": {
+      "description": "Описание приложения, отображаемое в интернет-магазине.",
+      "message": "LockPW - protección con contraseña del navegador."
+   },
+   "appName": {
+      "description": "Название приложения, отображаемое в интернет-магазине.",
+      "message": "LockPW"
+   },
+   "appShortDesc": {
+      "description": "Очень краткое описание",
+      "message": "La protección por contraseña para su navegador."
+   },
+   "contextMenuLock": {
+      "description": "Название кнопки в контекстном меню",
+      "message": "Bloqueo del navegador"
+   },
+   "helpPageButtonNext": {
+      "description": "Кнопка перехода в настройки",
+      "message": "Más lejos"
+   },
+   "helpPageHeaderTitle": {
+      "description": "Заголовок страницы помощи",
+      "message": "Como funciona"
+   },
+   "helpPageStep1Description1": {
+      "description": "Заголовок 1 шага",
+      "message": "Cuando inicie el navegador antes de abrir las páginas le pedirá su contraseña."
+   },
+   "helpPageStep1Description2": {
+      "description": "Заголовок 1 шага",
+      "message": "También puede establecer diferentes configuraciones para usted."
+   },
+   "helpPageStep1Title": {
+      "description": "Заголовок 1 шага",
+      "message": "Como funciona"
+   },
+   "helpPageStep2Description1": {
+      "description": "Описание 1 шага",
+      "message": "LockPW protege su navegador automáticamente al inicio. \u003Cbr>\u003Cbr> Para bloquear el navegador en cualquier momento, puede hacer clic en \u003Ci> LockPW \u003C/i> en el menú contextual (menú contextual)."
+   },
+   "helpPageStep2Description2": {
+      "description": "Описание 1 шага",
+      "message": "Hotkey Lock \"CTRL + SHIFT + L\""
+   },
+   "helpPageStep2Title": {
+      "description": "Заголовок 1 шага",
+      "message": "¿Cómo puedo bloquear el navegador?"
+   },
+   "helpPageTitle": {
+      "description": "Заголовок страницы помощи",
+      "message": "LockPW - Como funciona"
+   },
+   "historyEAAttemptsLimit": {
+      "description": "Уведомление о действиях",
+      "message": "Superó los intentos límite de inicio de sesión"
+   },
+   "historyEAAuth": {
+      "description": "Уведомление о действиях",
+      "message": "Autorización"
+   },
+   "historyEAAutoBlock": {
+      "description": "Уведомление о действиях",
+      "message": "Bloqueo automático del navegador"
+   },
+   "historyEABrowserClear": {
+      "description": "Уведомление о действиях",
+      "message": "Historial del navegador borrado"
+   },
+   "historyEAClosed": {
+      "description": "Уведомление о действиях",
+      "message": "Cerrar navegador"
+   },
+   "historyEAContextMenu": {
+      "description": "Уведомление о действиях",
+      "message": "Menú contextual"
+   },
+   "historyEAFocus": {
+      "description": "Уведомление о действиях",
+      "message": "Perdió el foco de la ventana de entrada de contraseña"
+   },
+   "historyEAHotkeys": {
+      "description": "Уведомление о действиях",
+      "message": "Teclas de acceso rápido"
+   },
+   "historyEANewPage": {
+      "description": "Уведомление о действиях",
+      "message": "Nueva pestaña de incógnito abierta"
+   },
+   "historyETAuth": {
+      "description": "Категория события",
+      "message": "Error de autorización"
+   },
+   "historyETBlock": {
+      "description": "Уведомление о действиях",
+      "message": "Navegador bloqueado"
+   },
+   "historyETPassword": {
+      "description": "Уведомление о действиях",
+      "message": "Contraseña especificada no válida"
+   },
+   "historyETUnlock": {
+      "description": "Уведомление о действиях",
+      "message": "Navegador desbloqueado"
+   },
+   "historyPageHeaderTitle": {
+      "description": "Заголовок страницы",
+      "message": "La historia"
+   },
+   "historyPageTitle": {
+      "description": "Заголовок страницы",
+      "message": "LockPW - La historia"
+   },
+   "loginPageButtonOk": {
+      "description": "Кнопка на странице ввода пароля",
+      "message": "Acceder"
+   },
+   "loginPageHintTitle": {
+      "description": "Заголовок подсказки",
+      "message": "Ayuda"
+   },
+   "loginPageTitle": {
+      "description": "Заголовок страницы ввода пароля",
+      "message": "Navegador bloqueado"
+   },
+   "optionsPageAdditionalSettings": {
+      "description": "Заголовок на странице настроек",
+      "message": "Configuraciones avanzadas"
+   },
+   "optionsPageCheckboxAttemptsClearHistory": {
+      "description": "Чекбокс",
+      "message": "Borrar historia"
+   },
+   "optionsPageCheckboxAttemptsClose": {
+      "description": "Чекбокс",
+      "message": "Cerrar ventanas del navegador"
+   },
+   "optionsPageCheckboxAttemptsLabel": {
+      "description": "Описание",
+      "message": "Acciones al exceder el límite de intentos de inicio de sesión:"
+   },
+   "optionsPageCheckboxAttemptsNew": {
+      "description": "Чекбокс",
+      "message": "Abra una nueva ventana del navegador en modo \"de incógnito\""
+   },
+   "optionsPageCheckboxAutoLock": {
+      "description": "Чекбокс",
+      "message": "Bloqueo automático"
+   },
+   "optionsPageCheckboxAutoLockLabel": {
+      "description": "Описание",
+      "message": "El navegador se bloqueará después del período de inactividad especificado."
+   },
+   "optionsPageCheckboxFullScreen": {
+      "description": "Чекбокс",
+      "message": "Apertura de la ventana de introducción de contraseña a pantalla completa"
+   },
+   "optionsPageCheckboxFullScreenLabel": {
+      "description": "Описание",
+      "message": "Cuando abra el navegador, la ventana de entrada de contraseña se superpondrá completamente al navegador."
+   },
+   "optionsPageCheckboxLogging": {
+      "description": "Чекбокс",
+      "message": "Registro"
+   },
+   "optionsPageCheckboxLoggingLabel": {
+      "description": "Описание",
+      "message": "Historial de intentos de registro"
+   },
+   "optionsPageCheckboxMinimize": {
+      "description": "Чекбокс",
+      "message": "Minimiza las ventanas del navegador"
+   },
+   "optionsPageCheckboxMinimizeTitle": {
+      "description": "Описание",
+      "message": "Cuando abre el navegador, todas las ventanas se minimizan antes de ingresar una contraseña"
+   },
+   "optionsPageCheckboxQuick": {
+      "description": "Чекбокс",
+      "message": "Teclas de acceso rápido"
+   },
+   "optionsPageCheckboxQuickLabel": {
+      "description": "Описание",
+      "message": "Bloqueo rápido del navegador haciendo clic \"Ctrl+Shift+L\""
+   },
+   "optionsPageCheckboxSecurityMode": {
+      "description": "Чекбокс",
+      "message": "Modo seguro"
+   },
+   "optionsPageCheckboxSecurityModeOff": {
+      "description": "Описание",
+      "message": "Ahora puede abrir otras aplicaciones mientras el navegador está bloqueado. ¡Este modo es menos seguro!"
+   },
+   "optionsPageCheckboxSecurityModeOn": {
+      "description": "Описание",
+      "message": "Este modo protege el proceso LockPW de ser terminado por cualquier administrador de tareas. El navegador siempre se cerrará cuando intente iniciar otro programa cuando su navegador esté bloqueado."
+   },
+   "optionsPageHeaderTitle": {
+      "description": "Заголовок на странице настроек",
+      "message": "Configuraciones"
+   },
+   "optionsPageInputAttemptsLimitPlaceholder": {
+      "description": "Подсказка в поле на странице настроек",
+      "message": "Número de intentos de inicio de sesión (0 para eliminar la restricción)"
+   },
+   "optionsPageInputAutoLockCheckbox": {
+      "description": "Подсказка в поле на странице настроек",
+      "message": "Bloquear después de ... segundos"
+   },
+   "optionsPageInputPasswordButtonSave": {
+      "description": "Кнопка сохранения пароля",
+      "message": "Guardar"
+   },
+   "optionsPageInputPasswordConfirmPlaceholder": {
+      "description": "Подсказка в поле на странице настроек",
+      "message": "Confirmar contraseña"
+   },
+   "optionsPageInputPasswordHelpPlaceholder": {
+      "description": "Подсказка в поле на странице настроек",
+      "message": "Ingrese pista de contraseña"
+   },
+   "optionsPageInputPasswordPlaceholder": {
+      "description": "Подсказка в поле на странице настроек",
+      "message": "Ingrese contraseña"
+   },
+   "optionsPageInputPasswordStatusOff": {
+      "description": "Описание",
+      "message": "¡La protección de contraseña está deshabilitada!"
+   },
+   "optionsPageInputPasswordStatusOn": {
+      "description": "Описание",
+      "message": "Protección de contraseña habilitada!"
+   },
+   "optionsPageTitle": {
+      "description": "Заголовок страницы настроек",
+      "message": "LockPW - Configuración"
+   }
+}

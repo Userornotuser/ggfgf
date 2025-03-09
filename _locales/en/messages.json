@@ -1,0 +1,238 @@
+{
+   "appDesc": {
+      "description": "Description of the application displayed in the online store.",
+      "message": "LockPW is a password protection for Browser."
+   },
+   "appName": {
+      "description": "The name of the application displayed in the online store.",
+      "message": "LockPW"
+   },
+   "appShortDesc": {
+      "description": "Very short description",
+      "message": "Password protection for the browser."
+   },
+   "contextMenuLock": {
+      "description": "The name of the button in the context menu",
+      "message": "Lock browser"
+   },
+   "helpPageButtonNext": {
+      "description": "Button to go to settings",
+      "message": "Next"
+   },
+   "helpPageHeaderTitle": {
+      "description": "Page title",
+      "message": "LockPW - How It Works"
+   },
+   "helpPageStep1Description1": {
+      "description": "1 step description",
+      "message": "When you start the browser before opening the pages will ask for your password."
+   },
+   "helpPageStep1Description2": {
+      "description": "1 step description",
+      "message": "You can also set different settings for yourself."
+   },
+   "helpPageStep1Title": {
+      "description": "1 step header",
+      "message": "How It Works"
+   },
+   "helpPageStep2Description1": {
+      "description": "2 step description",
+      "message": "LockPW protects your browser automatically at startup.\u003Cbr>\u003Cbr> To block the browser at any time, you can click \u003Ci> LockPW \u003C/i> in the context menu (right-click menu)."
+   },
+   "helpPageStep2Description2": {
+      "description": "2 step description",
+      "message": "Hotkey Lock \"CTRL + SHIFT + L\""
+   },
+   "helpPageStep2Title": {
+      "description": "2 step header",
+      "message": "How can I block the browser"
+   },
+   "helpPageTitle": {
+      "description": "Page title",
+      "message": "LockPW - Как это работает"
+   },
+   "historyEAAttemptsLimit": {
+      "description": "Action Notification",
+      "message": "Exceeded the limit login attempts"
+   },
+   "historyEAAuth": {
+      "description": "Action Notification",
+      "message": "Authorization"
+   },
+   "historyEAAutoBlock": {
+      "description": "Action Notification",
+      "message": "Automatic block system"
+   },
+   "historyEABrowserClear": {
+      "description": "Action Notification",
+      "message": "Browser history cleared"
+   },
+   "historyEAClosed": {
+      "description": "Action Notification",
+      "message": "Browser closed"
+   },
+   "historyEAContextMenu": {
+      "description": "Action Notification",
+      "message": "Контекстное меню"
+   },
+   "historyEAFocus": {
+      "description": "Action Notification",
+      "message": "Lost focus from password entry window"
+   },
+   "historyEAHotkeys": {
+      "description": "Action Notification",
+      "message": "Context menu"
+   },
+   "historyEANewPage": {
+      "description": "Action Notification",
+      "message": "New incognito tab opened"
+   },
+   "historyETAuth": {
+      "description": "Event Category",
+      "message": "Authorisation error"
+   },
+   "historyETBlock": {
+      "description": "Action Notification",
+      "message": "The browser locked"
+   },
+   "historyETPassword": {
+      "description": "Action Notification",
+      "message": "Incorrect password"
+   },
+   "historyETUnlock": {
+      "description": "Action Notification",
+      "message": "The browser unlocked"
+   },
+   "historyPageHeaderTitle": {
+      "description": "Page title",
+      "message": "History"
+   },
+   "historyPageTitle": {
+      "description": "Page title",
+      "message": "LockPW - History"
+   },
+   "loginPageButtonOk": {
+      "description": "Button on the password entry page",
+      "message": "Login"
+   },
+   "loginPageHintTitle": {
+      "description": "Tooltip header",
+      "message": "Hint"
+   },
+   "loginPageTitle": {
+      "description": "Page title",
+      "message": "Browser locked"
+   },
+   "optionsPageAdditionalSettings": {
+      "description": "Title on the settings page",
+      "message": "Additional settings"
+   },
+   "optionsPageCheckboxAttemptsClearHistory": {
+      "description": "Checkbox",
+      "message": "Clear the history"
+   },
+   "optionsPageCheckboxAttemptsClose": {
+      "description": "Checkbox",
+      "message": "Close the browser"
+   },
+   "optionsPageCheckboxAttemptsLabel": {
+      "description": "Description",
+      "message": "Actions in case of exceeding login attempts:"
+   },
+   "optionsPageCheckboxAttemptsNew": {
+      "description": "Checkbox",
+      "message": "Open a new incognito profile"
+   },
+   "optionsPageCheckboxAutoLock": {
+      "description": "Checkbox",
+      "message": "Auto lock"
+   },
+   "optionsPageCheckboxAutoLockLabel": {
+      "description": "Description",
+      "message": "The browser will be locked after the specified period of inactivity"
+   },
+   "optionsPageCheckboxFullScreen": {
+      "description": "Checkbox",
+      "message": "Opening the password entry window in full screen"
+   },
+   "optionsPageCheckboxFullScreenLabel": {
+      "description": "Description",
+      "message": "When you open the browser, the password entry window will completely overlap the browser."
+   },
+   "optionsPageCheckboxLogging": {
+      "description": "Checkbox",
+      "message": "Logging"
+   },
+   "optionsPageCheckboxLoggingLabel": {
+      "description": "Description",
+      "message": "Saving history of login attempts"
+   },
+   "optionsPageCheckboxMinimize": {
+      "description": "Checkbox",
+      "message": "Minimize Chrome"
+   },
+   "optionsPageCheckboxMinimizeTitle": {
+      "description": "Description",
+      "message": "When you open all the windows are rolled up until the password is entered"
+   },
+   "optionsPageCheckboxQuick": {
+      "description": "Checkbox",
+      "message": "Hotkeys"
+   },
+   "optionsPageCheckboxQuickLabel": {
+      "description": "Description",
+      "message": "Fast lock the browser by pressing  \"Ctrl+Shift+L\""
+   },
+   "optionsPageCheckboxSecurityMode": {
+      "description": "Checkbox",
+      "message": "Security mode"
+   },
+   "optionsPageCheckboxSecurityModeOff": {
+      "description": "Description",
+      "message": "Now you can open other applications while chrome is locked. Note the disadvantages."
+   },
+   "optionsPageCheckboxSecurityModeOn": {
+      "description": "Description",
+      "message": "This mode protects the LockPW process against terminating by some kind of task manager. Chrome will always be closed when you try to start another program while your browser is locked."
+   },
+   "optionsPageHeaderTitle": {
+      "description": "Title on the settings page",
+      "message": "Settings"
+   },
+   "optionsPageInputAttemptsLimitPlaceholder": {
+      "description": "Tooltip in the box on the settings page",
+      "message": "Number of login attempts (0 - unlimit)"
+   },
+   "optionsPageInputAutoLockCheckbox": {
+      "description": "Tooltip in the box on the settings page",
+      "message": "Lock after ... seconds"
+   },
+   "optionsPageInputPasswordButtonSave": {
+      "description": "Password save button",
+      "message": "Save"
+   },
+   "optionsPageInputPasswordConfirmPlaceholder": {
+      "description": "Tooltip in the box on the settings page",
+      "message": "Repeat password"
+   },
+   "optionsPageInputPasswordHelpPlaceholder": {
+      "description": "Tooltip in the box on the settings page",
+      "message": "Enter password hint"
+   },
+   "optionsPageInputPasswordPlaceholder": {
+      "description": "Tooltip in the box on the settings page",
+      "message": "Enter password"
+   },
+   "optionsPageInputPasswordStatusOff": {
+      "description": "Description",
+      "message": "The password protection is turned off!"
+   },
+   "optionsPageInputPasswordStatusOn": {
+      "description": "Description",
+      "message": "The password protection is turned on!"
+   },
+   "optionsPageTitle": {
+      "description": "Page title",
+      "message": "LockPW - Settings"
+   }
+}

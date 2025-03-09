@@ -1,0 +1,36 @@
+{
+   "author": "SofWar",
+   "background": {
+      "scripts": [ "scripts/background.js", "scripts/ga.js" ]
+   },
+   "commands": {
+      "lockON": {
+         "description": "Lock browser",
+         "suggested_key": {
+            "default": "Ctrl+Shift+L",
+            "mac": "Command+Shift+L"
+         }
+      }
+   },
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com/analytics.js 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "images/icons/128.png",
+      "16": "images/icons/16.png",
+      "19": "images/icons/19.png",
+      "32": "images/icons/32.png",
+      "48": "images/icons/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0npXME8+EN8hm3h6J9XXsKVS3xh8UaIZUuCF6OYbpREOk/hZ+VRQe9zJNGF5BiNZONEdESYNDr+itZZ2RZqIPxq0EZad8HdhvSSBxqppC++0yqUBVlmgzd8olADBKfuasRHqR0lUJTzajw5LEBrMill8TATDcAKVMcgXJFtk2VoJHnvz1lLiZAny9U1ZxdWEbfoV8NcqiIVHKGpyptdETeJGY4+ukekQBZ2e3y9pOu3EBWps/uFnR0jh4dg6tcgjQptIfsuVum8jSz+hVmVwDMuq+PBXrvZKJJGPtXyDhSuv6GrBBgxltPoQ+ZiFjFDVJ3CdG0htO/bq72VNQ6tbKwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "offline_enabled": true,
+   "optional_permissions": [ "history" ],
+   "options_page": "index.html",
+   "permissions": [ "contextMenus", "commands", "idle", "storage" ],
+   "short_name": "__MSG_appShortDesc",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "7.0.3",
+   "web_accessible_resources": [ "/scripts/md5.js" ]
+}
